@@ -24,7 +24,7 @@ time, mark, audio, video {
   margin: 0;
   padding: 0;
   border: 0;
-  font-size: 100%;
+  /* font-size: 100%; */
   font: inherit;
   vertical-align: baseline; }
 
@@ -173,8 +173,8 @@ body.page-template-page-fullsingle-split {
 
 .split-intro {
   font-weight: 600;
-  font-size: 64px;
-  line-height: 80px;
+  font-size: 58px;
+  line-height: 78px;
   letter-spacing: -2px; }
   .split-intro h1 {
     font-weight: 400;
